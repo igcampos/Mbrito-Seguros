@@ -1,7 +1,9 @@
 # Projeto Mbrito Corretora de Seguros
 
 ## Aprendizado
-Para solucionar o problema de negócio, foi preciso adiquirir o conhecimento de algumas técnicas, desde o modelo de classificação como o XGboost, a métrica de Gini Coefficient e técnicas de tratamento de dados desbalanceados como o undersampling. 
+Esse projeto teve o intuito principal de auxiliar no aprendizado sobre a utilização de machine learning na análise de risco do seguro automóvel.
+
+Para solucionar o problema de negócio, foi preciso adquirir o conhecimento de algumas técnicas, desde o modelo de classificação como o XGboost, a métrica de Gini Coefficient e técnicas de tratamento de dados desbalanceados como o undersampling. 
 
 ## Sumário
 1. Entendimento do Negócio
